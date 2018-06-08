@@ -15,7 +15,7 @@ namespace DemoWindowsFormsApp
         public Form1()
         {
             InitializeComponent();
-            this.Text = "Demo";
+            this.Text = "Demo v1.0";
         }
     }
 }
